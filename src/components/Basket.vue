@@ -57,7 +57,7 @@ export default {
         float: left;
     }
 
-    div > p {
+    p {
         text-align: left;
     }
 
